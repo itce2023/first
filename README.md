@@ -1,0 +1,2 @@
+# first
+my fisrt repository
